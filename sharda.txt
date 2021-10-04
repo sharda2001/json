@@ -1,0 +1,4 @@
+name sikha 
+age 20 
+course python 
+add nav
